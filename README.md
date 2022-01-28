@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an Academic group proyect at SoyHenry](https://www.soyhenry.com/)
 
-- 🌱 I’m currently learning **Authentication , Payments and TypeScript**
+- 🌱 I’m currently learning **Authentication , Payments and React Native**
 
 - 💬 Ask me about **JavaScript, React-Redux, Express, Node.js, Sequelize**
 
