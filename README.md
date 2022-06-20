@@ -1,11 +1,11 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave" width="25px" height="25px"> , I'm Mauro E. N. Fernandez</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [an Academic group proyect at SoyHenry](https://www.soyhenry.com/)
+- 🔭 I’m currently working as a [Software Developer at Magnetar](https://magnetarsoftware.com/)
 
-- 🌱 I’m currently learning **Authentication , Payments and React Native**
+- 🌱 I’m currently learning **Mobile App development, Deep linking, Payments and React Native**
 
-- 💬 Ask me about **JavaScript, React-Redux, Express, Node.js, Sequelize**
+- 💬 Ask me about **JavaScript, React Native, Redux Toolkit, Express, Node.js, Sequelize**
 
 - 📫 How to reach me **mauro.e.n.fernandez@gmail.com**
 
@@ -20,6 +20,7 @@
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+     <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="React Native" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
