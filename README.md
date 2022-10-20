@@ -1,11 +1,11 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave" width="25px" height="25px"> , I'm Mauro E. N. Fernandez</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working as a [Software Developer at Magnetar](https://magnetarsoftware.com/)
+- 🔭 I’m currently working as a [React Native Developer at Banza](https://banza.com.ar/)
 
 - 🌱 I’m currently learning **Mobile App development, Deep linking, Payments and React Native**
 
-- 💬 Ask me about **JavaScript, React Native, Redux Toolkit, Express, Node.js, Sequelize**
+- 💬 Ask me about **JavaScript, TypeScript, React Native, Redux Toolkit, Express, Node.js, Sequelize**
 
 - 📫 How to reach me **mauro.e.n.fernandez@gmail.com**
 
